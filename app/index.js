@@ -4,4 +4,4 @@ import App from './App';
 
 
 
-render(<App/>, document.getElementById('content'));
+render(<App width="800" height="800"></App>, document.getElementById('content'));
